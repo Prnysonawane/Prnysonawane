@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning NLP and LLM
 - 💞️ Open for more collaborations on Machine Learning ,AI 
 - 📫 How to reach me pranaysonawane06@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Prnysonawane/Prnysonawane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
