@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m Pranay Sonawane<br>👀 I’m interested in analysing and working with different reports or data.A trained professional in Economics with Machine Learning.<br>🌱 I’m currently learning NLP and LLM<br>💞️ Open for more collaborations on Machine Learning ,AI<br>📫 How to reach me pranaysonawane06@gmail.com<br>
+<br>👋 Hi, I’m Pranay Sonawane<br>👀 I’m interested in analysing and working with different reports or data.A trained professional in Economics with Machine Learning.<br>🌱 I’m currently learning NLP and LLM<br>💞️ Open for more collaborations on Machine Learning ,AI<br>📫 How to reach me pranaysonawane06@gmail.com<br>
 
 
 ## 🌐 Socials:
